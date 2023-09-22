@@ -11,7 +11,7 @@ There's no single thing that makes you a good 4on4 player but these tips might h
 - Make sure you know how to play each spawn at the start of the map. There are some useful videos for this in Youtube. Google for DDK, he knows what he's talking about.
 - Learn the best routes from A to B to C. Perhaps even from C to A.
 - Use the unavoidable prewars for honing your movement skills in each map.
-- Learn the sound clues in each map. Knowing locations of shell / nail packs can be crucial in some maps.
+- Learn the sound cues in each map. Knowing locations of shell / nail packs can be crucial in some maps.
 
 ## Don't steal stuff
 - Be aware of your surroundings. Before taking that weapon or armor it is very useful to know if your team mate might need it more. 
@@ -45,7 +45,7 @@ There's no single thing that makes you a good 4on4 player but these tips might h
 
 ## Time items
 - Don't waste your time waiting for items that are not spawning within the next 20 seconds. Use that time for something useful instead.
-- Especially don't waste your time waiting for items as a group! If there's already a mate of yours waiting for an item it's probably better to go somewhere else unless you for some reason think/know that he will need your help getting away alive (with for example rl in dm3) or to stay alive to get the item(for example armor/mega).
+- Especially don't waste your time waiting for items as a group! If there's already a mate of yours waiting for an item it's probably better to go somewhere else unless you for some reason think/know that he will need your help getting away alive (with for example rl in dm3) or to stay alive to get the item (for example armor/mega).
 
 ## Be active
 - Use your sg as much as possible. The damage dealt accumulates surprisingly fast and makes it difficult for your opponent to survive.
